@@ -1,0 +1,17 @@
+{ "games":[ {"id":1,"gameName":"Breat of the Wild","gameCompany":"Nintendo","gamePictureUrl":"https://www.zelda.com/breath-of-the-wild/assets/icons/BOTW-Share_icon.jpg"},
+{"id":2,"gameName":"Animal Crossing New Horizon","gameCompany":"Nintendo","gamePictureUrl":"https://wallpaperaccess.com/full/2317617.jpg"},
+{"id":3,"gameName":"Super Smash Bros Ultimate","gameCompany":"Nintendo","gamePictureUrl":"https://images2.alphacoders.com/927/thumb-1920-927337.png"},
+{"id":4,"gameName":"Pokemon Sword","gameCompany":"Nintendo","gamePictureUrl":"https://i.imgur.com/NwlQNsG.jpg"},
+{"id":5,"gameName":"super mario odyssey","gameCompany":"Nintendo","gamePictureUrl":"https://wallpaperaccess.com/full/1326982.jpg"},
+{"id":6,"gameName":"Rocket League","gameCompany":"Psyonix","gamePictureUrl":"https://blog.hdwallsource.com/wp-content/uploads/2017/09/rocket-league-game-hd-wallpaper-61731-63567-hd-wallpapers.jpg"},
+{"id":7,"gameName":"League of Legends","gameCompany":"Riot","gamePictureUrl":"https://preview.redd.it/in73r6sbixz31.png?width=4096&format=png&auto=webp&s=810fa4aef8f17b2ccf3ca4c18601eb731904d37e"},
+{"id":8,"gameName":"Valorant","gameCompany":"Riot","gamePictureUrl":"https://images6.alphacoders.com/107/thumb-1920-1072679.jpg"},
+{"id":9,"gameName":"Red Dead Redemption 2","gameCompany":"RockStar","gamePictureUrl":"https://wallpapercave.com/wp/wp3660596.jpg"},
+{"id":10,"gameName":"Witcher 3","gameCompany":"CD RedProjekt","gamePictureUrl":"https://i0.wp.com/wallur.com/wp-content/uploads/2016/12/witcher-3-background-13.jpg?fit=1920%2C1080"},
+{"id":11,"gameName":"God Of War 4","gameCompany":"Sony","gamePictureUrl":"https://images.hdqwalls.com/wallpapers/god-of-war-4-2018-oo.jpg"},
+{"id":12,"gameName":"BloodBorne","gameCompany":"Sony","gamePictureUrl":"https://fsa.zobj.net/crop.php?r=VK54n5kYUs6FQPnC_STCiHzJ0cdsEWMXR82h2VXqLBisTLQKfqZtKWH2oq6x2LbXBSW9zbGvZBSkM8P7slaAwMSSKWqGsA7zW_XmOHzDbZXg5piFpZy5kay-gfVSGJGs6k0um-s760-yTUIH"},
+{"id":13,"gameName":"Doom Eternal","gameCompany":"Bethesda","gamePictureUrl":"https://images3.alphacoders.com/102/thumb-1920-1025036.jpg"},
+{"id":14,"gameName":"Spiderman","gameCompany":"Sony","gamePictureUrl":"https://gmedia.playstation.com/is/image/SIEPDC/marvels-spider-man-desktop-wallpaper-03-en-15dec20?$native--t$"},
+{"id":15,"gameName":"Assasin's Creed Black Flag","gameCompany":"Ubisoft","gamePictureUrl":"https://www.pixelstalk.net/wp-content/uploads/images1/Assassins-creed-iv-black-flag-assassin-pirate-edward-kenway-images-3840x2400.jpg"}
+]
+}
